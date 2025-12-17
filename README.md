@@ -1,4 +1,4 @@
-About Me
+
 
 I am a Data Science student with a strong interest in Cybersecurity, focused on using data-driven techniques to solve real-world security and analytics problems. I enjoy working with data, building machine learning models, and understanding how systems can be secured against modern cyber threats.
 
